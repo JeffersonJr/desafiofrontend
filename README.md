@@ -42,6 +42,8 @@ Busca de ferramenta
 - :trophy: Critérios de Aceitação
 Deve ser usada a API disponibilizada no fim deste documento para listar, adicionar, remover e filtrar as ferramentas. Se você está realizando o desafio para full-stack, deve utilizar a API construída por você, no desafio de back-end.
 
+-
+
 ## :electric_plug: API :electric_plug: ##
 https://gitlab.com/bossabox/challenge-fake-api/tree/master
 
