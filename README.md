@@ -50,7 +50,7 @@ https://app.bossabox.com/
 
 
 ## About me ##
--
+
 Para acompanhar as coisas que faço, me siga aqui no GitHub ou em minhas redes sociais.
 
 - *Meu site:* https://jeffersonjunior.com.br/
