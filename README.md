@@ -1,13 +1,12 @@
 # :checkered_flag: Desafio Front-end :checkered_flag: # 
--
+
 Minha tarefa é construir um front-end para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. Utilize um repositório Git (público, de preferência) para versionamento e disponibilização do código.
 
 O front-end deve ser construído utilizando qualquer framework JavaScript de sua preferência (React, Vue.js, Angular, etc...), utilizando este style guide e seguindo os wireframes apresentados abaixo.
 
--
 
 ## :shipit: O que será avaliado :shipit: ##
--
+
 A BossaBox deseja avaliar minha capacidade de desenvolver e documentar um front-end para uma aplicação com back-end pronto. Serão avaliados:
 
 Código bem escrito e limpo;
@@ -21,10 +20,9 @@ README.md contendo informações básicas do projeto e como executá-lo.
 Bônus
 Os pontos em negrito se destacam como características para se tornar Tech Lead em squads.
 
--
 
 # :construction: Testes de front-end :construction: #
--
+
 - Uso de ferramentas externas que facilitem o seu trabalho;
 - Cuidados especiais com otimização, SEO, entre outros;
 - Deploy da aplicação utilizando ferramentas externas (Netlify, Surge, S3, Firebase, etc);
@@ -42,18 +40,14 @@ Busca de ferramenta
 - :trophy: Critérios de Aceitação
 Deve ser usada a API disponibilizada no fim deste documento para listar, adicionar, remover e filtrar as ferramentas. Se você está realizando o desafio para full-stack, deve utilizar a API construída por você, no desafio de back-end.
 
--
 
 ## :electric_plug: API :electric_plug: ##
 https://gitlab.com/bossabox/challenge-fake-api/tree/master
-
--
 
 Se quiser fique a vontade para replicar o desafio, a BossaBox lança sempre esses desafios, basta se cadastrar na plataforma deles.
 
 https://app.bossabox.com/
 
--
 
 ## About me ##
 -
