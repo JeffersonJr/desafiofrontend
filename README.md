@@ -4,9 +4,9 @@ Minha tarefa é construir um front-end para a aplicação VUTTR (Very Useful Too
 
 O front-end deve ser construído utilizando qualquer framework JavaScript de sua preferência (React, Vue.js, Angular, etc...), utilizando este style guide e seguindo os wireframes apresentados abaixo.
 
+-
 
-
-##O que será avaliado##
+## :shipit: O que será avaliado :shipit: ##
 -
 A BossaBox deseja avaliar minha capacidade de desenvolver e documentar um front-end para uma aplicação com back-end pronto. Serão avaliados:
 
@@ -21,7 +21,9 @@ README.md contendo informações básicas do projeto e como executá-lo.
 Bônus
 Os pontos em negrito se destacam como características para se tornar Tech Lead em squads.
 
-# :construction: Testes de front-end; :construction: #
+-
+
+# :construction: Testes de front-end :construction: #
 -
 - Uso de ferramentas externas que facilitem o seu trabalho;
 - Cuidados especiais com otimização, SEO, entre outros;
@@ -40,9 +42,24 @@ Busca de ferramenta
 - :trophy: Critérios de Aceitação
 Deve ser usada a API disponibilizada no fim deste documento para listar, adicionar, remover e filtrar as ferramentas. Se você está realizando o desafio para full-stack, deve utilizar a API construída por você, no desafio de back-end.
 
-## :electric_plug: API##
+## :electric_plug: API :electric_plug: ##
 https://gitlab.com/bossabox/challenge-fake-api/tree/master
+
+-
 
 Se quiser fique a vontade para replicar o desafio, a BossaBox lança sempre esses desafios, basta se cadastrar na plataforma deles.
 
 https://app.bossabox.com/
+
+-
+
+## About me ##
+-
+Para acompanhar as coisas que faço, me siga aqui no GitHub ou em minhas redes sociais.
+
+- *Meu site:* https://jeffersonjunior.com.br/
+- *Linkedin:* https://www.linkedin.com/in/jeffersonjunior/
+- *Instagram:* https://www.instagram.com/jefferson_beira/
+- *Twitter:* https://twitter.com/Jefferson_Beira/
+- *Facebook:* https://www.facebook.com/JeffersonJJR/
+- *Digital CV:* https://app.bossabox.com/u/jefferson-junior/
